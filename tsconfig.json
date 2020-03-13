@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "removeComments": false,
+    "esModuleInterop": true,
+    "outDir": "./lib",
+    "newLine": "LF",
+    "skipLibCheck": true,
+    "lib": [
+      "esnext",
+      "dom"
+    ]
+  },
+  "include": [
+    "src",
+    "global.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
