@@ -96,7 +96,7 @@
     "@tarojs/taro-h5": "^1.2.26",
     "@types/fs-extra": "^7.0.0",
     "@types/globby": "^9.1.0",
-    "@types/jest": "^24.0.13",
+    "@types/jest": "^24.9.1",
     "@types/qs": "^6.5.3",
     "@types/shelljs": "^0.8.5",
     "@types/sinon": "^5.0.5",
