@@ -100,6 +100,7 @@
     "@types/qs": "^6.5.3",
     "@types/shelljs": "^0.8.5",
     "@types/sinon": "^5.0.5",
+    "@microsoft/api-extractor": "^7.4.1",
     "bili": "^4.8.0",
     "codecov": "^3.1.0",
     "commitlint-config-io": "^0.3.0",

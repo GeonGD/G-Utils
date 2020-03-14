@@ -21,7 +21,7 @@ ii(async function main() {
   try {
     _.exec('api-extractor run')
   } catch (err) {
-
+    console.log('err for declare file =====> /n', err)
   }
 
   // 删除多余文件
